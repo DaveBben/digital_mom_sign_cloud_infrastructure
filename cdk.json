@@ -1,0 +1,12 @@
+{
+  "app": "python3 app.py",
+  "context": {
+    "@aws-cdk/core:stackRelativeExports": "true",
+    "prod": {
+      "log_level": "INFO",
+      "tags": {
+        "applicationid": ""
+      }
+    }
+  }
+}
