@@ -1,3 +1,4 @@
 .venv
 venv
 cdk.out
+.DS_Store
