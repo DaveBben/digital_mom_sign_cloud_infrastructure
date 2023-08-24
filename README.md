@@ -3,7 +3,7 @@
 Cloud infrastructure for the [Digital Mom Sign Device]().
 
 AWS Infrastructure Diagram
-![AWS Infrastructure Diagram](aws_diagram.png)
+![AWS Infrastructure Diagram](aws_diagram_infra.png)
 
 ## Deploying
 
