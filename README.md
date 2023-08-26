@@ -1,6 +1,6 @@
 # Digital Mom Sign Infrastructure
 
-Cloud infrastructure for the [Digital Mom Sign Device]().
+Cloud infrastructure for the [Digital Mom Sign Device](https://github.com/DaveBben/esp32_digital_mom_sign).
 
 AWS Infrastructure Diagram
 ![AWS Infrastructure Diagram](aws_diagram_infra.png)
